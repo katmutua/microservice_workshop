@@ -4,9 +4,9 @@ Materials for MicroService Workshop
 * GOTO Chicago 2014
 
 
-Docker was used to run RabbitMQ and the various services (Uganda class)
+Docker was used to run RabbitMQ and the various services
 
-* Boot2Docker used
+* Boot2Docker used 
 * dockerfile/rabbitmq image used
 ** docker pull dockerfile/rabbitmq
 ** docker run -d -p 5672:5672 -p 15672:15672 --name="rabbitmq" dockerfile/rabbitmq
