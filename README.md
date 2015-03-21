@@ -12,3 +12,4 @@ Docker was used to run RabbitMQ and the various services
 ** docker run -d -p 5672:5672 -p 15672:15672 --name="rabbitmq" dockerfile/rabbitmq
 ** for restarting: docker start rabbitmq
 ** for console dumping: docker logs rabbitmq
+Tutorials by [@fredgeorge](https://github.com/fredgeorge)
